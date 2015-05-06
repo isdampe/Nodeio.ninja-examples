@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-expressjs",
+  "version": "1.0.0",
+  "description": "A hello world in ExpressJS",
+  "author": "@isdampe <isdampe@gmail.com>",
+  "dependencies": {
+    "express": "*"
+  }
+}
